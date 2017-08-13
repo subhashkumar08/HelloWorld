@@ -5,5 +5,6 @@ System.out.println("Hello GitHub");
 System.out.println("Feature branch");
 System.out.println("Feature branch 2345");
 System.out.println(">>>>>>>>>>>");
+System.out.println(" master branch commit ");
 }
 }
