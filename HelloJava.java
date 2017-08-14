@@ -6,5 +6,6 @@ System.out.println("Feature branch");
 System.out.println("Feature branch 2345");
 System.out.println(">>>>>>>>>>>");
 System.out.println(" master branch commit ");
+System.out.println(" master pull hellojava changed");
 }
 }
